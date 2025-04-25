@@ -116,7 +116,7 @@ Potential extensions to this project could include:
 - Incorporating real-world data to calibrate the simulation
 
 ## 👨‍💻 Contributors
-- Mohamed Sayed
+- Mostafa Hany
 - Nada Mostafa
 - Ward Salkini
 - Anas Mohamed
